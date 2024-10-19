@@ -2,7 +2,7 @@
 :wave: 
 
 ---
-#### Who is MrsxIT?
+### Who is MrsxIT?
 
 I an new to tech and new to GitHub. I am learning how to use VS code and use GitHub and I am keen to use to show that if I can do it.. **then anyone can!** 
 I have two repositories - one where we explore, together, how to use GitHub in our worklife to make us more efficient and work feel less.... Well, like *work*. The other is to explore how we can use GitHub to support our home life - making life simpler. Or thats the plan anyway.
