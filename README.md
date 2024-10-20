@@ -2,7 +2,7 @@
 :wave: 
 
 ---
-ADD PHOTO HERE 
+
 ---
 
 ### Who is MrsxIT?
