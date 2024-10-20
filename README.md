@@ -8,12 +8,9 @@
 
 ### Who is MrsxIT?
 
-```I am new to tech and new to GitHub.
-```
-```I am new to coding and programming languages
-```
-```I work in data management and anaylsis
-```
+💻 ```I am new to tech and new to GitHub.```
+🔠 ```I am new to coding and programming languages```
+📊 ```I work in data management and anaylsis```
 
 ---
 ### What am I about?
