@@ -17,7 +17,7 @@
 ---
 ### 🌏 What am I about?
 
-▶️ ```I am a newbie-tech-geek who enjoys playing with data``` ▶️ ```I have three beautiful children, two teenagers and a toddler``` ▶️ ```I work as a data services business partner for an education group``` ▶️
+:arrow_right: ```I am a newbie-tech-geek who enjoys playing with data``` :arrow_right: ```I have three beautiful children, two teenagers and a toddler``` :arrow_right: ```I work as a data services business partner for an education group``` :arrow_right: I am not certain what is it that attracts me to tech yet, I do enjoy coding but still find this difficult to master
 
 ---
 
