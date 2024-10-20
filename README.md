@@ -4,7 +4,7 @@
 
 ---
 
-!![Server Rack for GitHub](https://github.com/user-attachments/assets/e5bfd12f-fd2e-440d-ae27-b687c9811d9f)
+![Server Rack for GitHub](https://github.com/user-attachments/assets/e5bfd12f-fd2e-440d-ae27-b687c9811d9f)
 
 ---
 
