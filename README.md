@@ -1,15 +1,15 @@
----
-
 ## Hi, I’m @MrsxIT 🖥️
 :wave: 
 
 ---
 ADD PHOTO HERE 
 ---
+
 ### Who is MrsxIT?
 
-I am new to tech and new to GitHub. I am learning how to use VS code and use GitHub and I am keen to use it to show that, if I can do it.. **then anyone can!** 
-I have two repositories - one where we explore, together, how to use GitHub in our worklife to make us more efficient and work feel less.... Well, like *work*. The other is to explore how we can use GitHub to support our home life /- making life simpler. Or thats the plan anyway.. :laughing:
+```I am new to tech and new to GitHub.```
+```I am new to coding and programming languages```
+```I work in data management and anaylsis```
 
 ---
 ### What am I about?
